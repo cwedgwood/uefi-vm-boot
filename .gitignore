@@ -1,0 +1,5 @@
+ovmf_code.fd
+var_store.fd
+orig.qcow2
+boot0.qcow2
+guestshare/
